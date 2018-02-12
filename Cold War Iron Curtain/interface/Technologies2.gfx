@@ -2949,28 +2949,28 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_KPA_light_tanks_2_medium"
-		texturefile = "gfx/interface/technologies/KPA_lt_2.dds"
+		texturefile = "gfx/interface/technologies/SOV_lt_2.dds"
 	}	
 	
-	# SpriteType = {
-		# name = "GFX_KPA_light_tanks_3_medium"
-		# texturefile = "gfx/interface/technologies/KPA_lt_3.dds"
-	# }
+	SpriteType = {
+		name = "GFX_KPA_light_tanks_3_medium"
+		texturefile = "gfx/interface/technologies/PRC_lt_3.dds"
+	}
 
-	# SpriteType = {
-		# name = "GFX_KPA_light_tanks_4_medium"
-		# texturefile = "gfx/interface/technologies/KPA_lt_4.dds"
-	# }
+	SpriteType = {
+		name = "GFX_KPA_light_tanks_4_medium"
+		texturefile = "gfx/interface/technologies/KPA_lt_4.dds"
+	}
 	
 	SpriteType = {
 		name = "GFX_KPA_main_battle_tanks_1_medium"
-		texturefile = "gfx/interface/technologies/KPA_mbt_1.dds"
+		texturefile = "gfx/interface/technologies/SOV_mbt_1.dds"
 	}	
 	
-	# SpriteType = {
-		# name = "GFX_KPA_main_battle_tanks_2_medium"
-		# texturefile = "gfx/interface/technologies/KPA_mbt_2.dds"
-	# }
+	SpriteType = {
+		name = "GFX_KPA_main_battle_tanks_2_medium"
+		texturefile = "gfx/interface/technologies/KPA_mbt_2.dds"
+	}
 
 	SpriteType = {
 		name = "GFX_KPA_main_battle_tanks_3_medium"
@@ -3052,10 +3052,10 @@ spriteTypes = {
 		# texturefile = "gfx/interface/technologies/KPA_ht_3.dds"
 	# }
 
-	# SpriteType = {
-		# name = "GFX_KPA_mechanized_infantry_medium"
-		# texturefile = "gfx/interface/technologies/KPA_apc_1.dds"
-	# }
+	SpriteType = {
+		name = "GFX_KPA_mechanized_infantry_medium"
+		texturefile = "gfx/interface/technologies/SOV_apc_1.dds"
+	}
 	
 	SpriteType = {
 		name = "GFX_KPA_mechanized_infantry2_medium"
@@ -3092,20 +3092,20 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/KPA_apc_8.dds"
 	}
 	
-	# SpriteType = {
-		# name = "GFX_KPA_mechanized_infantry9_medium"
-		# texturefile = "gfx/interface/technologies/KPA_apc_9.dds"
-	# }
+	SpriteType = {
+		name = "GFX_KPA_mechanized_infantry9_medium"
+		texturefile = "gfx/interface/technologies/KPA_apc_9.dds"
+	}
 		
 	SpriteType = {
 		name = "GFX_KPA_mechanized_heavy_infantry_medium"
 		texturefile = "gfx/interface/technologies/KPA_ifv_1.dds"
 	}
 	
-	# SpriteType = {
-		# name = "GFX_KPA_mechanized_heavy_infantry2_medium"
-		# texturefile = "gfx/interface/technologies/KPA_ifv_2.dds"
-	# }
+	SpriteType = {
+		name = "GFX_KPA_mechanized_heavy_infantry2_medium"
+		texturefile = "gfx/interface/technologies/KPA_ifv_2.dds"
+	}
 	
 	SpriteType = {
 		name = "GFX_KPA_mechanized_heavy_infantry3_medium"
@@ -3149,10 +3149,10 @@ spriteTypes = {
 	
 	### Soviet Aircrafts ###
 
-	# SpriteType = {
-		# name = "GFX_KPA_tactical_bomber1_medium"
-		# texturefile = "gfx/interface/technologies/KPA_tactical_bomber1.dds"
-	# }		
+	SpriteType = {
+		name = "GFX_KPA_tactical_bomber1_medium"
+		texturefile = "gfx/interface/technologies/SOV_tactical_bomber1.dds"
+	}		
 	
 	# SpriteType = {
 		# name = "GFX_KPA_tactical_bomber2_medium"
@@ -3230,10 +3230,10 @@ spriteTypes = {
 		# texturefile = "gfx/interface/technologies/KPA_fighter1.dds"
 	# }	
 	
-	# SpriteType = {
-		# name = "GFX_KPA_fighter2_medium"
-		# texturefile = "gfx/interface/technologies/KPA_fighter2.dds"
-	# }	
+	SpriteType = {
+		name = "GFX_KPA_fighter2_medium"
+		texturefile = "gfx/interface/technologies/KPA_fighter2.dds"
+	}	
 
 	SpriteType = {
 		name = "GFX_KPA_fighter3_medium"
@@ -3614,8 +3614,6 @@ spriteTypes = {
 		# name = "GFX_KPA_advanced_submarine_medium"
 		# texturefile = "gfx/interface/technologies/KPA_advanced_submarine.dds"
 	# }
-
-	
 		# SpriteType = {
 		# name = "GFX_KPA_stealth_tactical_bomber_medium"
 		# texturefile = "gfx/interface/technologies/KPA_stealth_tactical_bomber.dds"
@@ -3694,11 +3692,11 @@ spriteTypes = {
 	# SpriteType = {
 		# name = "GFX_KPA_CAS4_medium"
 		# texturefile = "gfx/interface/technologies/KPA_CAS4.dds"
-	# }	
-	# SpriteType = {
-		# name = "GFX_KPA_jet_CAS1_medium"
-		# texturefile = "gfx/interface/technologies/KPA_jet_CAS1.dds"
-	# }	
+	}	
+	SpriteType = {
+		name = "GFX_KPA_jet_CAS1_medium"
+		texturefile = "gfx/interface/technologies/SOV_jet_CAS1.dds"
+	}	
 	# SpriteType = {
 		# name = "GFX_KPA_jet_CAS2_medium"
 		# texturefile = "gfx/interface/technologies/KPA_jet_CAS2.dds"
@@ -3863,7 +3861,7 @@ spriteTypes = {
 		
 	SpriteType = {
 		name = "GFX_KPA_jet_fighter1_medium"
-		texturefile = "gfx/interface/technologies/yak23_fighter.dds"
+		texturefile = "gfx/interface/technologies/SOV_jet_fighter1.dds"
 	}
 	
 	SpriteType = {
@@ -3872,7 +3870,7 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_KPA_jet_fighter3_medium"
-		texturefile = "gfx/interface/technologies/mig17_fighter.dds"
+		texturefile = "gfx/interface/technologies/KPA_jet_fighter3.dds"
 	}
 	
 	SpriteType = {
@@ -3882,7 +3880,7 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_KPA_jet_fighter5_medium"
-		texturefile = "gfx/interface/technologies/mig21_fighter.dds"
+		texturefile = "gfx/interface/technologies/KPA_fighter_5.dds"
 	}
 	
 	SpriteType = {
@@ -3966,10 +3964,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/technologies/mig19_fighter.dds"
 	}
 		
-	# SpriteType = {
-		# name = "GFX_KPA_jet_interceptor4_medium"
-		# texturefile = "gfx/interface/technologies/KPA_jet_interceptor4.dds"
-	# }
+	SpriteType = {
+		name = "GFX_KPA_jet_interceptor4_medium"
+		texturefile = "gfx/interface/technologies/KPA_jet_interceptor4.dds"
+	}
 		
 	# SpriteType = {
 		# name = "GFX_KPA_jet_interceptor5_medium"
@@ -3991,10 +3989,10 @@ spriteTypes = {
 		# texturefile = "gfx/interface/technologies/KPA_jet_interceptor8.dds"
 	# }
 			
-	# SpriteType = {
-		# name = "GFX_KPA_jet_interceptor9_medium"
-		# texturefile = "gfx/interface/technologies/KPA_jet_interceptor9.dds"
-	# }
+	SpriteType = {
+		name = "GFX_KPA_jet_interceptor9_medium"
+		texturefile = "gfx/interface/technologies/KPA_jet_interceptor9.dds"
+	}
 	
 	
 	############### KPA ARTILLERY

@@ -3017,12 +3017,13 @@
  PRC_cv_stealth_fighter_equipment_1_short:0 "J-31 Falcon Hawk"
   
  ########### KPA
- 
+ KPA_fighter_equipment_2:0 "Ki-43 Hayabusa"
+ KPA_fighter_equipment_3_short:0 "Ki-43"
  KPA_fighter_equipment_3:0 "Lavochkin La-9"
  KPA_fighter_equipment_3_short:0 "La-9"
  
- KPA_jet_fighter_equipment_1:0 "Yakovlev Yak-23 Flora"
- KPA_jet_fighter_equipment_1_short:0 "Yak-23 Flora"
+ KPA_jet_fighter_equipment_1:0 "Mikoyan-Gurevich MiG-9"
+ KPA_jet_fighter_equipment_1_short:0 "MiG-9"
  KPA_jet_fighter_equipment_2:0 "Mikoyan-Gurevich Mig-15 Fagot"
  KPA_jet_fighter_equipment_2_short:0 "Mig-15 Fagot"
  KPA_jet_fighter_equipment_3:0 "Shenyang F-5 Fresco"
@@ -3038,14 +3039,22 @@
  
  KPA_jet_interceptor_equipment_3:0 "Shenyang F-6 Farmer"
  KPA_jet_interceptor_equipment_3_short:0 "F-6 Farmer"
+ KPA_jet_interceptor_equipment_4:0 "Shenyang F-6B Farmer"
+ KPA_jet_interceptor_equipment_4_short:0 "F-6B Farmer"
+ KPA_jet_interceptor_equipment_9:0 "Sukhoi Su-27 Flanker"
+ KPA_jet_interceptor_equipment_9_short:0 "Su-27"
  
+ KPA_CAS_equipment_1:0 "Yaklolev Yak-23A"
+ KPA_CAS_equipment_1_short:0 "Yak-23A"
  KPA_CAS_equipment_3:0 "Ilyushin Il-10 Beast"
  KPA_CAS_equipment_3_short:0 "Il-10 Beast"
- 
  KPA_jet_CAS_equipment_5:0 "Nanchang Q-5 Fantan"
  KPA_jet_CAS_equipment_5_short:0 "Q-5 Fantan"
  KPA_jet_CAS_equipment_7:0 "Sukhoi Su-25 Frogfoot"
  KPA_jet_CAS_equipment_7_short:0 "Su-25 Frogfoot"
+ 
+ KPA_tac_bomber_equipment_2:0 "Tupolev Tu-2"
+ KPA_tac_bomber_equipment_2_short:0 "Tu-2"
  
  KPA_jet_tac_bomber_equipment_1:0 "Ilyushin Il-28 Beagle"
  KPA_jet_tac_bomber_equipment_1_short:0 "Il-28 Beagle"
